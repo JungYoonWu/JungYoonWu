@@ -42,11 +42,6 @@ AI · 백엔드 · 안드로이드 앱 개발을 중심으로 프로젝트를 �
 | [🎮 Game Sentiment Analysis](https://github.com/JungYoonWu/SentimentAnalysisProj) | 2025.05 ~ 2025.06 | 개인 | TensorFlow, LLM(Gemma), Streamlit, MLOps |
 | [🏥 OMC - 한방병원 예약 웹 시스템](https://github.com/JungYoonWu/OMC) | 2024.11 ~ 2025.01 | 개인 | JSP, Java, OracleDB, MyBatis |
 
-## 📊 GitHub Stats
-
-![YoonWu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungYoonWu&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungYoonWu&layout=compact)
 
 ## 📫 Contact
 
